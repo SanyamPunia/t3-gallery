@@ -1,6 +1,6 @@
 # T3 Gallery
 
-## TODO
+### TODO
 
 - [x] Make it deploy (vercel)
 - [x] Scaffold basic ui with mock data
@@ -18,3 +18,15 @@
 - [x] Analytics (posthog)
 - [x] Delete button (w/ Server Actions)
 - [x] Ratelimiting (upstash)
+
+### Tech Stack (t3)
+
+- **Vercel**: Deployment
+- **Next.js**: Frontend Framework
+- **Tailwind CSS**: Styling
+- **Vercel Postgres**: Database
+- **uploadthing**: Storage
+- **Drizzle**: ORM
+- **Clerk**: Authentication
+- **Sentry**: Error Management
+- **PostHog**: Analytics
