@@ -18,6 +18,10 @@
 - [x] Analytics (posthog)
 - [x] Delete button (w/ Server Actions)
 - [x] Ratelimiting (upstash)
+- [ ] Fix image layout
+- [ ] Selecting Image on gallery page
+- [ ] Infinite Scroll
+- [ ] Albums/Folders
 
 ### Tech Stack (t3)
 
